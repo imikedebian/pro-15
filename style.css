@@ -841,6 +841,21 @@ a:nth-child(5) {
     font-size: 15px;
   }
 
+  .project-card h3 {
+    font-size: 20px;
+  }
+  
+  .project-card p {
+    font-size: 13px;
+  }
+
+
+
+
+
+
+
+
   .heading-btn button {
     padding: 7px 15px;
     font-size: 13px;
